@@ -1,0 +1,7 @@
+{
+  "name": "VisitOslo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
